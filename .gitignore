@@ -1,0 +1,55 @@
+# text editor
+*.sublime-project
+*.sublime-workspace
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# C extension
+*.so
+
+# Java extension
+*.class
+
+# Distribution / packaging
+.Python
+venv/
+env/
+build/
+develop-eggs/
+dist/
+download/
+eggs/
+lib
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.DS_Store
+
+# PyInstaller
+*.spec
+*.manifest
+
+# Installer logs
+pip-log.txt
+
+# unit test
+.tox/
+.cache
+
+# Django stuff
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.code/
